@@ -1,5 +1,5 @@
 # Privacy-Policy
 Privacy Policy for good vibe publishing and media products   
    
-[Journai Support](https://goodvibepublishing.github.io/Privacy-Policy/index) \
-[Real Emotion Detector Support](https://goodvibepublishing.github.io/Privacy-Policy/REDPrivacyPolicy)
+[Journai Privacy Policy](https://goodvibepublishing.github.io/Privacy-Policy/index) \
+[Real Emotion Detector Privacy Policy](https://goodvibepublishing.github.io/Privacy-Policy/REDPrivacyPolicy)
