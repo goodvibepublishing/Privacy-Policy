@@ -1,5 +1,5 @@
 **Effective Date: March 3, 2026**
-**Last Updated: March 3, 2026**
+**Last Updated: July 10, 2026**
 
 This Privacy Policy describes how Good Vibe Publishing ("we", "us", or "our") collects, uses, and protects your information when you use the Journai mobile application ("App").
 
@@ -13,6 +13,10 @@ This Privacy Policy describes how Good Vibe Publishing ("we", "us", or "our") co
 ### 1.2 Information Collected Automatically
 - **Mood Data** — Mood selections you make are stored locally on your device only.
 - **Usage Preferences** — App settings such as notification preferences and theme choices are stored locally on your device using device storage.
+- **AI Feature Usage Counts** — We track the number of AI Insights requests associated with your device or account in order to enforce free and subscriber plan limits (see Section 3). This count does not include the content of your journal entries.
+
+### 1.3 Subscription Information
+If you purchase a subscription (see Section 3), we receive limited transaction information from Apple, such as transaction identifiers and subscription status, to determine your plan and unlock the corresponding features. We do **not** receive or store your payment card details.
 
 ---
 
@@ -33,38 +37,50 @@ By using the AI Insights feature, your journal text is processed by **Anthropic,
 
 ---
 
-## 3. Notifications
+## 3. Subscriptions and Purchases
+
+Journai offers optional auto-renewing subscriptions that unlock additional features, including a higher daily limit of AI Insights requests.
+
+- **Payment processing** — Subscriptions are purchased through the Apple App Store, and all payment is processed by Apple. We never receive or store your payment card details, billing address, or other payment credentials. Apple's handling of your payment information is governed by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
+- **Transaction data we receive** — We receive limited transaction information from Apple (such as transaction identifiers, purchase receipts, and subscription status) solely to verify your subscription and unlock the corresponding features in the App.
+- **Usage limits** — To enforce free and subscriber plan limits, we track the number of AI Insights requests associated with your device or account. This usage count does not contain the content of your journal entries.
+- **Managing your subscription** — You can manage or cancel your subscription at any time through your Apple ID account settings.
+
+---
+
+## 4. Notifications
 
 If you grant permission, the App sends **local push notifications** (e.g. daily journaling reminders). These notifications are generated entirely on your device. No notification data is transmitted to our servers.
 
 ---
 
-## 4. Data Storage and Security
+## 5. Data Storage and Security
 
 - All journal entries, mood data, and preferences are stored **locally on your device**.
-- We use **Google Firebase Cloud Functions** solely as a secure intermediary for the AI Insights feature. No user data is persisted on Firebase infrastructure.
+- We use **Google Firebase Cloud Functions** solely as a secure intermediary for the AI Insights feature and to verify subscription entitlements and enforce usage limits.
 - We implement reasonable technical measures to protect data in transit (HTTPS/TLS).
 
 ---
 
-## 5. Data Retention
+## 6. Data Retention
 
 - **Local data** — Retained on your device until you delete the App or manually delete entries within the App.
 - **AI Insights data** — Your journal text is processed in real-time and **not retained** after the response is delivered.
+- **Subscription and usage data** — Subscription status and AI request usage counts are retained only as long as necessary to provide the service, verify entitlements, and comply with legal or accounting obligations.
 
 ---
 
-## 6. Children's Privacy
+## 7. Children's Privacy
 
 The App is not directed at children under the age of **13**. We do not knowingly collect personal information from children under 13. If you believe a child has provided us with personal information, please contact us and we will take steps to delete it.
 
 ---
 
-## 7. Your Rights
+## 8. Your Rights
 
 Depending on your jurisdiction, you may have the right to:
 - **Access** the personal data we hold about you
-- **Delete** your data — since all data is stored locally, you can delete it by removing the App
+- **Delete** your data — journal entries and preferences are stored locally and can be deleted by removing the App; to request deletion of subscription-related or usage data we hold, please contact us
 - **Opt out** of the AI Insights feature by simply not using it
 - **Withdraw consent** for notifications via your device settings
 
@@ -72,13 +88,13 @@ For users in the **European Economic Area (EEA)** or **California (CCPA)**, you 
 
 ---
 
-## 8. Changes to This Policy
+## 9. Changes to This Policy
 
 We will notify you of material changes to this Privacy Policy via an **in-app notification** on your first launch after the update. The updated policy will also be posted at our Privacy Policy URL with a new effective date.
 
 ---
 
-## 9. Contact Us
+## 10. Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
 
@@ -88,4 +104,4 @@ Website: [https://goodvibepublishing.github.io/Privacy-Policy/](https://goodvibe
 
 ---
 
-*This privacy policy was last updated on March 3, 2026.*
+*This privacy policy was last updated on July 10, 2026.*
